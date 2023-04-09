@@ -1,0 +1,2 @@
+npm init -y   -->create a json file  (package.json)
+npm i express   --->install express   (node_modules and package-lock.json)
